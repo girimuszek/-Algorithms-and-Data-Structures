@@ -9,7 +9,7 @@ public class Test {
             S.top();
         for (int i = 0; i < 6; i++)
             S.pop();
-        System.out.println("Final stack size is: " + S.size()); 
+        System.out.println("Final stack size is: " + S.size());
 
     }
 }
